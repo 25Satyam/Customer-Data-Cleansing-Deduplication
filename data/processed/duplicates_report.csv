@@ -1,0 +1,81 @@
+group_id,role,customer_id,customer_name,email,phone,city,pincode,created_date,match_reason,match_score
+1,survivor,C1013,Malhotra Pvt Ltd,pooja.malhotra86@company.in,8421496963,Gurugram,122038,2025-05-17,same phone + similar name,1.0
+1,duplicate,C1282,Malhotra Pvt Ltd,pooja.malhotra86@company.in,8421496963,Gurugram,122038,2026-06-26,same phone + similar name,1.0
+2,survivor,C1120,Malhotra & Sons,vikram.malhotra90@gmail.com,6848742118,Pune,411024,2025-01-17,same phone + similar name,0.97
+2,duplicate,C1264,Maalhotra & Sons,vikram.malhotra90@gmail.com,6848742118,Pune,411024,2026-05-28,same phone + similar name,0.97
+3,survivor,C1014,Gupta Solutions,rahul.gupta87@outlook.com,7810967485,Lucknow,226063,2025-01-18,same phone + similar name,0.97
+3,duplicate,C1276,Guptaa Solutions,rahul.gupta87@outlook.com,7810967485,Lucknow,226063,2026-02-12,same phone + similar name,0.97
+4,survivor,C1260,Gupta Enterprises,deepak.gupta34@yahoo.com,8003965759,Lucknow,226081,2026-03-17,same phone + similar name,1.0
+4,duplicate,C1138,Gupta Enterprises,deepak.gupta34@yahoo.com,8003965759,Lucknow,226081,2025-06-08,same phone + similar name,1.0
+5,survivor,C1266,Verma Pvt Ltd,amit.verma68@gmail.com,6802512316,Chennai,600071,2026-07-25,same phone + similar name,1.0
+5,duplicate,C1154,Verma Pvt Ltd,amit.verma68@gmail.com,6802512316,Chennai,600071,2025-09-11,same phone + similar name,1.0
+6,survivor,C1051,Kumar Foods,aarav.kumar5@yahoo.com,6263901434,New Delhi,110017,2025-04-20,same phone + similar name,0.96
+6,duplicate,C1286,Kumaar Foods,aarav.kumar5@yahoo.com,6263901434,New Delhi,110017,2026-06-19,same phone + similar name,0.96
+7,survivor,C1284,Gupta Enterprises,priya.gupta18@gmail.com,9347262672,Kolkata,700084,2026-03-10,same phone + similar name,1.0
+7,duplicate,C1088,Gupta Enterprises,priya.gupta18@gmail.com,9347262672,Kolkata,700084,2025-08-21,same phone + similar name,1.0
+8,survivor,C1283,Naair Foods,anjali.nair77@company.in,7945382800,Noida,201373,2026-04-15,same phone + similar name,0.95
+8,duplicate,C1108,Nair Foods,anjali.nair77@company.in,7945382800,Noida,201373,2025-03-21,same phone + similar name,0.95
+9,survivor,C1278,Mehtaa Industries,karan.mehta29@outlook.com,7165079560,Jaipur,302032,2026-03-28,same phone + similar name,0.97
+9,duplicate,C1129,Mehta Industries,karan.mehta29@outlook.com,7165079560,Jaipur,302032,2025-06-20,same phone + similar name,0.97
+10,survivor,C1253,Das & Sons,rohan.das25@company.in,6202930637,Noida,201346,2026-08-24,same phone + similar name,1.0
+10,duplicate,C1245,Das & Sons,rohan.das25@company.in,6202930637,Noida,201346,2025-09-07,same phone + similar name,1.0
+11,survivor,C1079,Agarwal Solutions,sneha.agarwal58@outlook.com,9466194290,Gurugram,122044,2025-06-21,same phone + similar name,1.0
+11,duplicate,C1257,Agarwal Solutions,sneha.agarwal58@outlook.com,9466194290,Gurugram,122044,2026-05-24,same phone + similar name,1.0
+12,survivor,C1275,Yadav & Sons,amit.yadav16@gmail.com,6450327579,Noida,201376,2026-09-18,same phone + similar name,1.0
+12,duplicate,C1236,Yadav & Sons,amit.yadav16@gmail.com,6450327579,Noida,201376,2025-08-04,same phone + similar name,1.0
+13,survivor,C1288,Khan Industries,meera.khan34@yahoo.com,8714189829,Bengaluru,560082,2026-08-04,same phone + similar name,1.0
+13,duplicate,C1219,Khan Industries,meera.khan34@yahoo.com,8714189829,Bengaluru,560082,2025-03-19,same phone + similar name,1.0
+14,survivor,C1193,Bose Foods,aditya.bose28@company.in,9277235851,Mumbai,400053,2025-02-18,same phone + similar name,1.0
+14,duplicate,C1255,Bose Foods,aditya.bose28@company.in,9277235851,Mumbai,400053,2026-01-18,same phone + similar name,1.0
+15,survivor,C1132,Khan & Sons,karan.khan6@yahoo.com,9222657398,Lucknow,226013,2025-05-13,same phone + similar name,0.95
+15,duplicate,C1271,Khaan & Sons,karan.khan6@yahoo.com,9222657398,Lucknow,226013,2026-03-25,same phone + similar name,0.95
+16,survivor,C1267,Maalhotra Foods,anjali.malhotra2@gmail.com,8894103713,Lucknow,226017,2026-08-06,same phone + similar name,0.97
+16,duplicate,C1087,Malhotra Foods,anjali.malhotra2@gmail.com,8894103713,Lucknow,226017,2025-07-20,same phone + similar name,0.97
+17,survivor,C1143,Bose & Sons,priya.bose47@company.in,8459687858,Chennai,600094,2025-10-02,same phone + similar name,1.0
+17,duplicate,C1281,Bose & Sons,priya.bose47@company.in,8459687858,Chennai,600094,2026-04-16,same phone + similar name,1.0
+18,survivor,C1285,Yadav Enterprises,ritu.yadav94@company.in,6491213247,Bengaluru,560044,2026-04-14,same phone + similar name,1.0
+18,duplicate,C1050,Yadav Enterprises,ritu.yadav94@company.in,6491213247,Bengaluru,560044,2025-12-22,same phone + similar name,1.0
+19,survivor,C1262,Kumar Foods,amit.kumar9@gmail.com,6007855531,Pune,411092,2026-06-20,same phone + similar name,1.0
+19,duplicate,C1037,Kumar Foods,amit.kumar9@gmail.com,6007855531,Pune,411092,2025-05-19,same phone + similar name,1.0
+20,survivor,C1272,Das Enterprises,priya.das67@yahoo.com,9399177514,Noida,201346,2026-01-15,same phone + similar name,1.0
+20,duplicate,C1150,Das Enterprises,priya.das67@yahoo.com,9399177514,Noida,201346,2025-01-19,same phone + similar name,1.0
+21,survivor,C1263,Bose Enterprise,deepak.bose12@gmail.com,9844355532,New Delhi,110056,2026-04-28,same phone + similar name,0.97
+21,duplicate,C1237,Bose Enterprises,deepak.bose12@gmail.com,9844355532,New Delhi,110056,2025-12-07,same phone + similar name,0.97
+22,survivor,C1131,Joshi Logistics,aarav.joshi99@yahoo.com,6559473277,Jaipur,302059,2025-03-19,same phone + similar name,1.0
+22,duplicate,C1252,Joshi Logistics,aarav.joshi99@yahoo.com,6559473277,Jaipur,302059,2026-01-21,same phone + similar name,1.0
+23,survivor,C1269,Singh Industries,manish.singh82@company.in,6506128938,Gurugram,122057,2026-04-07,same phone + similar name,1.0
+23,duplicate,C1094,Singh Industries,manish.singh82@company.in,6506128938,Gurugram,122057,2025-08-10,same phone + similar name,1.0
+24,survivor,C1254,Guptaa Enterprises,rohan.gupta91@company.in,8077961501,New Delhi,110084,2026-07-06,same phone + similar name,0.97
+24,duplicate,C1166,Gupta Enterprises,rohan.gupta91@company.in,8077961501,New Delhi,110084,2025-04-01,same phone + similar name,0.97
+25,survivor,C1279,Khan Pvt Ltd,sanjay.khan19@company.in,6142907840,Lucknow,226077,2026-05-27,same phone + similar name,1.0
+25,duplicate,C1209,Khan Pvt Ltd,sanjay.khan19@company.in,6142907840,Lucknow,226077,2025-09-09,same phone + similar name,1.0
+26,survivor,C1273,Mehta Pvt Ltd,neha.mehta79@yahoo.com,9730738878,Chennai,600060,2026-07-12,same phone + similar name,1.0
+26,duplicate,C1168,Mehta Pvt Ltd,neha.mehta79@yahoo.com,9730738878,Chennai,600060,2025-08-24,same phone + similar name,1.0
+27,survivor,C1261,Das Industries,pooja.das80@yahoo.com,8117971195,Bengaluru,560047,2026-03-05,same phone + similar name,1.0
+27,duplicate,C1198,Das Industries,pooja.das80@yahoo.com,8117971195,Bengaluru,560047,2025-03-15,same phone + similar name,1.0
+28,survivor,C1173,Joshi Pvt Ltd,aarav.joshi82@yahoo.com,8225762119,Pune,411013,2025-01-05,same phone + similar name,1.0
+28,duplicate,C1274,Joshi Pvt Ltd,aarav.joshi82@yahoo.com,8225762119,Pune,411013,2026-08-08,same phone + similar name,1.0
+29,survivor,C1277,Kapoor Pvt Ltd,sneha.kapoor29@outlook.com,8764459725,Mumbai,400050,2026-05-10,same phone + similar name,1.0
+29,duplicate,C1060,Kapoor Pvt Ltd,sneha.kapoor29@outlook.com,8764459725,Mumbai,400050,2025-09-09,same phone + similar name,1.0
+30,survivor,C1256,Kumar Pvt Ltd,amit.kumar94@gmail.com,6345296450,New Delhi,110021,2026-06-02,same phone + similar name,1.0
+30,duplicate,C1091,Kumar Pvt Ltd,amit.kumar94@gmail.com,6345296450,New Delhi,110021,2025-06-13,same phone + similar name,1.0
+31,survivor,C1163,Kumar Solutions,sneha.kumar14@yahoo.com,7096665200,Kolkata,700017,2025-07-08,same phone + similar name,0.97
+31,duplicate,C1287,Kumaar Solutions,sneha.kumar14@yahoo.com,7096665200,Kolkata,700017,2026-07-13,same phone + similar name,0.97
+32,survivor,C1251,Kaapoor Industries,sneha.kapoor88@outlook.com,6228483541,New Delhi,110074,2026-05-14,same phone + similar name,0.97
+32,duplicate,C1111,Kapoor Industries,sneha.kapoor88@outlook.com,6228483541,New Delhi,110074,2025-07-19,same phone + similar name,0.97
+33,survivor,C1074,Malhotra & Sons,aditya.malhotra7@gmail.com,9206659367,New Delhi,110029,2025-07-23,same phone + similar name,1.0
+33,duplicate,C1268,Malhotra & Sons,aditya.malhotra7@gmail.com,9206659367,New Delhi,110029,2026-08-16,same phone + similar name,1.0
+34,survivor,C1250,Das Traders,karan.das30@gmail.com,7024743600,Pune,411007,2026-08-20,same phone + similar name,1.0
+34,duplicate,C1149,Das Traders,karan.das30@gmail.com,7024743600,Pune,411007,2025-08-08,same phone + similar name,1.0
+35,survivor,C1259,Patel Logistics,manish.patel12@company.in,8644034261,Pune,411080,2026-02-11,same phone + similar name,1.0
+35,duplicate,C1226,Patel Logistics,manish.patel12@company.in,8644034261,Pune,411080,2025-05-19,same phone + similar name,1.0
+36,survivor,C1201,Gupta Industries,isha.gupta27@outlook.com,9953953062,Lucknow,226059,2025-12-15,same phone + similar name,1.0
+36,duplicate,C1289,Gupta Industries,isha.gupta27@outlook.com,9953953062,Lucknow,226059,2026-09-06,same phone + similar name,1.0
+37,survivor,C1002,Mehta Foods,anjali.mehta49@outlook.com,7687203229,Jaipur,302027,2025-04-05,same phone + similar name,1.0
+37,duplicate,C1270,Mehta Foods,anjali.mehta49@outlook.com,7687203229,Jaipur,302027,2026-07-19,same phone + similar name,1.0
+38,survivor,C1265,Das Logistics,rahul.das9@company.in,6428296257,Noida,201352,2026-02-26,same phone + similar name,1.0
+38,duplicate,C1242,Das Logistics,rahul.das9@company.in,6428296257,Noida,201352,2025-01-27,same phone + similar name,1.0
+39,survivor,C1280,Iyer Solutions,manish.iyer80@gmail.com,6525543085,Pune,411084,2026-08-21,same phone + similar name,1.0
+39,duplicate,C1213,Iyer Solutions,manish.iyer80@gmail.com,6525543085,Pune,411084,2025-11-27,same phone + similar name,1.0
+40,survivor,C1258,Shaarma Foods,isha.sharma50@company.in,9863974311,Lucknow,226075,2026-01-06,same phone + similar name,0.96
+40,duplicate,C1249,Sharma Foods,isha.sharma50@company.in,9863974311,Lucknow,226075,2025-03-10,same phone + similar name,0.96

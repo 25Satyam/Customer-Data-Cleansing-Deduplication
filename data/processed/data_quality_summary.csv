@@ -1,0 +1,18 @@
+metric,value
+Raw records loaded,308
+Records rejected (failed validation),18
+Records passing validation,290
+Duplicate groups found,40
+Duplicate records removed,40
+Final clean customer records,250
+Records with GSTIN warnings,14
+Reduction in record count (%),18.8
+Values standardised: customer_name,18
+Values standardised: contact_person,0
+Values standardised: email,29
+Values standardised: phone,29
+Values standardised: address,22
+Values standardised: city,25
+Values standardised: state,21
+Values standardised: pincode,0
+Values standardised: gstin,0
