@@ -1,0 +1,251 @@
+customer_id,customer_name,contact_person,email,phone,address,city,state,pincode,gstin,created_date
+C1000,Yadav Solutions,Aarav Yadav,aarav.yadav29@yahoo.com,6680402501,"167, Market Road",Gurugram,Haryana,122053,06FPVAU6319K2Z1,2025-07-04
+C1001,Patel Pvt Ltd,Amit Patel,amit.patel6@company.in,6935868570,"59, Park Street",Bengaluru,Karnataka,560010,29WWJLV1367V2Z9,2025-11-06
+C1002,Mehta Foods,Anjali Mehta,anjali.mehta49@outlook.com,7687203229,"225, Nehru Place",Jaipur,Rajasthan,302027,08RKXLG2525S7Z5,2025-04-05
+C1003,Gupta Traders,Kavita Gupta,kavita.gupta15@yahoo.com,7740395980,"185, Sector 18",Jaipur,Rajasthan,302087,08XTTIH1077Q3Z8,2025-02-28
+C1004,Patel Solutions,Ritu Patel,ritu.patel20@outlook.com,7575030988,"79, Industrial Area Phase 2",Pune,Maharashtra,411007,27GOCTV9516R3Z4,2025-09-28
+C1005,Jain Solutions,Deepak Jain,deepak.jain92@outlook.com,9964512352,"57, MG Road",Lucknow,Uttar Pradesh,226009,09SBBAI5245X8Z3,2025-08-26
+C1006,Singh Enterprises,Priya Singh,priya.singh85@company.in,8447690438,"64, Industrial Area Phase 2",Chennai,Tamil Nadu,600024,33NDEMW0880U9Z0,2025-02-25
+C1007,Bose Foods,Neha Bose,neha.bose62@yahoo.com,9910397267,"201, Market Road",Mumbai,Maharashtra,400084,27SEHZP5705Q9Z2,2025-01-17
+C1008,Gupta Enterprises,Neha Gupta,neha.gupta87@yahoo.com,9182564559,"53, Nehru Place",Gurugram,Haryana,122030,06GDQLY9065D2Z8,2025-04-17
+C1009,Nair Enterprises,Karan Nair,karan.nair32@outlook.com,8187696082,"170, Sector 18",Pune,Maharashtra,411017,27GXTEH2368Q8Z4,2025-01-03
+C1010,Verma Traders,Sneha Verma,sneha.verma43@yahoo.com,8147519610,"95, Main Bazaar",Chennai,Tamil Nadu,600070,33DDIXU8822D6Z8,2025-07-20
+C1011,Mehta Industries,Anjali Mehta,anjali.mehta53@gmail.com,7739888271,"224, MG Road",New Delhi,Delhi,110060,07FVLHU2013C5Z5,2025-11-17
+C1012,Reddy Traders,Vikram Reddy,vikram.reddy15@outlook.com,7590537491,"231, Main Bazaar",Chennai,Tamil Nadu,600024,33GSAYN7763C6Z9,2025-06-22
+C1013,Malhotra Pvt Ltd,Pooja Malhotra,pooja.malhotra86@company.in,8421496963,"141, MG Road",Gurugram,Haryana,122038,06HLPRM4249Z3Z1,2025-05-17
+C1014,Gupta Solutions,Rahul Gupta,rahul.gupta87@outlook.com,7810967485,"184, Civil Lines",Lucknow,Uttar Pradesh,226063,09KDRXW8728W9Z7,2025-01-18
+C1015,Das Industries,Rohan Das,rohan.das60@outlook.com,9675858742,"64, Park Street",Mumbai,Maharashtra,400098,27UMGLS2380E4Z6,2025-12-05
+C1016,Bose Logistics,Aditya Bose,aditya.bose43@company.in,9083790854,"242, Nehru Place",Mumbai,Maharashtra,400038,27TWYKT5622N8Z0,2025-07-11
+C1017,Das Industries,Neha Das,neha.das80@gmail.com,9560481234,"87, Civil Lines",Chennai,Tamil Nadu,600035,33TVGCA5936Y1Z0,2025-04-07
+C1018,Kumar Solutions,Isha Kumar,isha.kumar17@company.in,6526716718,"247, Park Street",Noida,Uttar Pradesh,201313,09PYOXJ9158H2Z4,2025-11-20
+C1019,Verma & Sons,Manish Verma,manish.verma69@company.in,8060444384,"40, Civil Lines",Gurugram,Haryana,122022,06TZHVN4472H2Z4,2025-08-08
+C1020,Patel Logistics,Manish Patel,manish.patel44@gmail.com,9812738720,"243, Industrial Area Phase 2",Kolkata,West Bengal,700010,19GKOGM7402M4Z4,2025-11-19
+C1021,Kapoor & Sons,Kavita Kapoor,kavita.kapoor55@outlook.com,8722111571,"56, Ring Road",Bengaluru,Karnataka,560035,29SZNHC1210R3Z4,2025-01-02
+C1022,Kumar Foods,Pooja Kumar,pooja.kumar14@gmail.com,8441094840,"162, MG Road",Jaipur,Rajasthan,302019,08DOHZD7672Q7Z7,2025-08-10
+C1023,Chauhan Traders,Deepak Chauhan,deepak.chauhan79@gmail.com,7620251464,"9, Industrial Area Phase 2",Lucknow,Uttar Pradesh,226036,09SSLRY7669N2Z8,2025-04-21
+C1024,Kumar Enterprises,Sneha Kumar,sneha.kumar8@yahoo.com,8589443425,"113, Sector 18",New Delhi,Delhi,110076,07BLIGC9859Y5Z9,2025-01-25
+C1025,Malhotra Foods,Kavita Malhotra,kavita.malhotra36@yahoo.com,9640336836,"74, Civil Lines",New Delhi,Delhi,110097,07OLIIZ4596R8Z6,2025-01-07
+C1026,Patel Foods,Amit Patel,amit.patel81@company.in,6259461962,"41, Park Street",Jaipur,Rajasthan,302070,08AKFVC9619J9Z4,2025-07-27
+C1027,Agarwal Foods,Kavita Agarwal,kavita.agarwal71@yahoo.com,9157107837,"69, MG Road",Kolkata,West Bengal,700036,19SVPRW4437M8Z5,2025-04-23
+C1028,Iyer Solutions,Manish Iyer,manish.iyer53@gmail.com,8778368940,"129, Main Bazaar",Mumbai,Maharashtra,400042,27WWLNL7461P5Z5,2025-10-23
+C1029,Reddy Logistics,Aditya Reddy,aditya.reddy41@company.in,6626220977,"26, Ring Road",Chennai,Tamil Nadu,600021,33SXBUH3155Z3Z2,2025-03-03
+C1030,Patel Solutions,Sanjay Patel,sanjay.patel64@yahoo.com,7422089614,"89, Main Bazaar",Lucknow,Uttar Pradesh,226038,09QLGVF3425S5Z4,2025-01-27
+C1031,Sharma Traders,Sneha Sharma,sneha.sharma78@company.in,8728212776,"36, Sector 18",Chennai,Tamil Nadu,600080,33QILPT0271E9Z5,2025-09-17
+C1032,Yadav Foods,Neha Yadav,neha.yadav38@outlook.com,6407266385,"24, Civil Lines",Pune,Maharashtra,411001,27GDJTG3636P1Z9,2025-09-11
+C1033,Gupta Foods,Anjali Gupta,anjali.gupta90@outlook.com,9100912533,"244, Market Road",Lucknow,Uttar Pradesh,226053,09PSXRV6926G8Z7,2025-04-28
+C1034,Nair & Sons,Rohan Nair,rohan.nair8@company.in,8118466507,"63, Station Road",Bengaluru,Karnataka,560072,29FVOPV2775I3Z2,2025-09-09
+C1035,Sharma Industries,Rohan Sharma,rohan.sharma2@outlook.com,7502141043,"152, Sector 18",New Delhi,Delhi,110057,07NYBUW5490P7Z6,2025-11-04
+C1036,Gupta Enterprises,Meera Gupta,meera.gupta42@yahoo.com,6165735254,"204, Sector 18",Kolkata,West Bengal,700083,19QTSFL2344D6Z6,2025-06-22
+C1038,Kapoor Traders,Deepak Kapoor,deepak.kapoor78@outlook.com,6173308541,"163, MG Road",Mumbai,Maharashtra,400011,27TFKIJ7750B3Z2,2025-10-02
+C1039,Das Logistics,Sneha Das,sneha.das63@company.in,9271426460,"102, Main Bazaar",Gurugram,Haryana,122007,06AHFDG3071M9Z3,2025-09-18
+C1040,Iyer Traders,Aditya Iyer,aditya.iyer56@gmail.com,9985574103,"206, Main Bazaar",Bengaluru,Karnataka,560058,29VXCVG5533K4Z5,2025-03-03
+C1041,Malhotra Solutions,Rohan Malhotra,rohan.malhotra45@outlook.com,7211676174,"194, Main Bazaar",Jaipur,Rajasthan,302097,08PRWQZ3934P8Z4,2025-05-19
+C1042,Malhotra Enterprises,Amit Malhotra,amit.malhotra40@company.in,9032690535,"245, MG Road",Noida,Uttar Pradesh,201357,09XOEPN9488W2Z8,2025-11-06
+C1043,Das Foods,Anjali Das,anjali.das68@yahoo.com,8324357600,"174, Civil Lines",Noida,Uttar Pradesh,201336,09GWZPD0693U7Z2,2025-10-23
+C1044,Kapoor Logistics,Pooja Kapoor,pooja.kapoor83@outlook.com,7687656433,"47, Industrial Area Phase 2",Gurugram,Haryana,122043,06YMFDC8178Q1Z5,2025-10-05
+C1045,Kumar Industries,Sanjay Kumar,sanjay.kumar24@yahoo.com,9037967722,"248, Ring Road",Lucknow,Uttar Pradesh,226024,09JYZMH3598Z3Z4,2025-01-21
+C1046,Kapoor Enterprises,Amit Kapoor,amit.kapoor92@gmail.com,8014580988,"239, MG Road",Kolkata,West Bengal,700053,19BNGZJ0986Z3Z2,2025-01-10
+C1047,Khan Foods,Karan Khan,karan.khan79@gmail.com,6021964721,"62, Civil Lines",Kolkata,West Bengal,700081,19ULCXP0521N1Z9,2025-06-08
+C1048,Mehta Enterprises,Deepak Mehta,deepak.mehta68@outlook.com,6957508033,"192, MG Road",Lucknow,Uttar Pradesh,226045,09UITQU7305U3Z7,2025-12-16
+C1049,Gupta Foods,Karan Gupta,karan.gupta5@outlook.com,7010959527,"49, Park Street",New Delhi,Delhi,110045,07WBRHU4449K3Z7,2025-12-16
+C1051,Kumar Foods,Aarav Kumar,aarav.kumar5@yahoo.com,6263901434,"20, Main Bazaar",New Delhi,Delhi,110017,07NKQGC7435I5Z7,2025-04-20
+C1052,Jain Enterprises,Kavita Jain,kavita.jain18@gmail.com,9179899675,"75, Park Street",Pune,Maharashtra,411020,27SYQUN1217A6Z8,2025-10-12
+C1053,Kumar Enterprises,Vikram Kumar,vikram.kumar9@outlook.com,9975780964,"175, Market Road",Kolkata,West Bengal,700044,19DVOPT1588Q3Z4,2025-03-06
+C1054,Nair Pvt Ltd,Anjali Nair,anjali.nair11@outlook.com,7651355191,"169, Main Bazaar",Bengaluru,Karnataka,560092,29XIYBW0972G7Z9,2025-11-01
+C1055,Chauhan Pvt Ltd,Vikram Chauhan,vikram.chauhan62@yahoo.com,9200442637,"188, Nehru Place",Kolkata,West Bengal,700051,19DJOIM2202M7Z3,2025-03-27
+C1056,Reddy Solutions,Manish Reddy,manish.reddy98@yahoo.com,9948403425,"13, MG Road",Bengaluru,Karnataka,560036,29MWRMN8487Y7Z5,2025-01-13
+C1057,Kapoor Solutions,Manish Kapoor,manish.kapoor47@outlook.com,6345866103,"87, Market Road",Noida,Uttar Pradesh,201346,09TFNNB1344T9Z2,2025-06-20
+C1058,Iyer Pvt Ltd,Neha Iyer,neha.iyer76@outlook.com,9728369577,"177, MG Road",Bengaluru,Karnataka,560076,29MZUUP7516T7Z2,2025-11-08
+C1059,Singh Solutions,Manish Singh,manish.singh3@company.in,8442564877,"133, Industrial Area Phase 2",Noida,Uttar Pradesh,201371,09IRNIE9337X5Z9,2025-08-07
+C1061,Kumar Enterprises,Sneha Kumar,sneha.kumar79@yahoo.com,7092213461,"247, Market Road",Jaipur,Rajasthan,302020,08KYWMF9369C4Z8,2025-12-24
+C1062,Bose Industries,Neha Bose,neha.bose5@company.in,9178202693,"117, Market Road",Noida,Uttar Pradesh,201367,09MYWMF1142F1Z5,2025-05-19
+C1063,Patel Logistics,Neha Patel,neha.patel55@outlook.com,6409490342,"85, Park Street",Mumbai,Maharashtra,400074,27SAQSB1345W5Z1,2025-11-10
+C1064,Agarwal Solutions,Isha Agarwal,isha.agarwal18@company.in,7493797887,"175, Main Bazaar",Bengaluru,Karnataka,560010,29NNJXC8925F6Z8,2025-08-04
+C1065,Khan Enterprises,Manish Khan,manish.khan66@company.in,6454048738,"191, Industrial Area Phase 2",Mumbai,Maharashtra,400074,27BLSOB8942F3Z6,2025-06-13
+C1066,Iyer Enterprises,Sanjay Iyer,sanjay.iyer88@yahoo.com,8193198794,"185, Market Road",Kolkata,West Bengal,700054,19NVGJH9718N1Z3,2025-04-03
+C1067,Verma Foods,Isha Verma,isha.verma77@gmail.com,7742280528,"188, Main Bazaar",Gurugram,Haryana,122040,06PUVGW9542R3Z6,2025-09-16
+C1068,Iyer & Sons,Amit Iyer,amit.iyer90@company.in,9137483789,"144, Civil Lines",Noida,Uttar Pradesh,201353,09ODGFQ9807G1Z4,2025-07-22
+C1069,Verma Enterprises,Isha Verma,isha.verma25@yahoo.com,9293921777,"235, Industrial Area Phase 2",Lucknow,Uttar Pradesh,226089,09PFXOU3532Q8Z7,2025-02-26
+C1070,Jain & Sons,Rahul Jain,rahul.jain41@company.in,6521295413,"98, Main Bazaar",Kolkata,West Bengal,700031,19MRRGV9641Z6Z2,2025-03-24
+C1071,Mehta Traders,Kavita Mehta,kavita.mehta68@gmail.com,6967482705,"96, MG Road",Jaipur,Rajasthan,302079,08QYXRA5407R5Z0,2025-09-27
+C1072,Singh Enterprises,Neha Singh,neha.singh68@yahoo.com,7158233459,"58, Park Street",Chennai,Tamil Nadu,600087,33VCZQA4346W3Z1,2025-08-28
+C1073,Joshi Enterprises,Rahul Joshi,rahul.joshi68@gmail.com,7288400985,"9, Station Road",Chennai,Tamil Nadu,600040,33AFDVV9255M9Z5,2025-07-25
+C1074,Malhotra & Sons,Aditya Malhotra,aditya.malhotra7@gmail.com,9206659367,"116, Ring Road",New Delhi,Delhi,110029,07JYLRR0677C5Z2,2025-07-23
+C1075,Reddy & Sons,Sanjay Reddy,sanjay.reddy14@gmail.com,6947104551,"23, Nehru Place",New Delhi,Delhi,110070,07CPIKH3099H9Z2,2025-11-13
+C1076,Yadav Pvt Ltd,Karan Yadav,karan.yadav35@company.in,7044402265,"51, Ring Road",New Delhi,Delhi,110013,07DAKVJ8448U3Z4,2025-06-20
+C1077,Reddy Industries,Kavita Reddy,kavita.reddy51@outlook.com,8769732739,"52, Main Bazaar",Mumbai,Maharashtra,400069,27ETASY2780Z7Z7,2025-03-21
+C1078,Yadav Industries,Anjali Yadav,anjali.yadav92@company.in,9094459657,"93, Market Road",Pune,Maharashtra,411076,27QCTRJ6096M6Z6,2025-02-01
+C1079,Agarwal Solutions,Sneha Agarwal,sneha.agarwal58@outlook.com,9466194290,"213, Station Road",Gurugram,Haryana,122044,06ILFMM4633Z2Z0,2025-06-21
+C1080,Agarwal Industries,Neha Agarwal,neha.agarwal71@yahoo.com,8592416406,"51, Ring Road",Gurugram,Haryana,122075,06LAFHS7575L6Z3,2025-08-04
+C1081,Malhotra & Sons,Kavita Malhotra,kavita.malhotra77@company.in,9538687260,"35, Nehru Place",Pune,Maharashtra,411015,27GDJDK5544R3Z8,2025-03-16
+C1082,Mehta & Sons,Karan Mehta,karan.mehta58@gmail.com,8941356447,"114, Ring Road",Pune,Maharashtra,411021,27CATHH5147Y8Z8,2025-09-04
+C1083,Yadav & Sons,Rohan Yadav,rohan.yadav70@gmail.com,9591872943,"210, Sector 18",Lucknow,Uttar Pradesh,226056,09WDVFT6864T3Z3,2025-04-26
+C1084,Nair Pvt Ltd,Manish Nair,manish.nair77@yahoo.com,8925959817,"106, MG Road",Noida,Uttar Pradesh,201335,09WDWGS8764S5Z6,2025-07-15
+C1085,Iyer Pvt Ltd,Aditya Iyer,aditya.iyer89@outlook.com,9930777463,"17, Market Road",Gurugram,Haryana,122050,06FLFGV3554K1Z0,2025-02-21
+C1086,Singh Industries,Aarav Singh,aarav.singh57@company.in,6949983880,"93, Park Street",Kolkata,West Bengal,700010,19JXEKH6267A4Z7,2025-02-05
+C1089,Malhotra Traders,Aditya Malhotra,aditya.malhotra47@outlook.com,7384514905,"4, Park Street",Lucknow,Uttar Pradesh,226027,09BBUNQ5470R9Z9,2025-03-09
+C1090,Gupta Solutions,Pooja Gupta,pooja.gupta20@outlook.com,9576634922,"237, Civil Lines",Gurugram,Haryana,122014,06LPITT1771L9Z8,2025-12-09
+C1092,Verma Logistics,Neha Verma,neha.verma29@outlook.com,7472035918,"12, Civil Lines",New Delhi,Delhi,110008,07WWUIC4327X4Z7,2025-06-19
+C1093,Kapoor Solutions,Priya Kapoor,priya.kapoor20@gmail.com,9056603737,"79, Sector 18",Kolkata,West Bengal,700026,19NGMBZ7098Q7Z5,2025-08-24
+C1095,Singh Enterprises,Sneha Singh,sneha.singh21@outlook.com,6281793028,"45, MG Road",Kolkata,West Bengal,700051,19WOOCC7107H3Z3,2025-07-12
+C1096,Joshi Pvt Ltd,Manish Joshi,manish.joshi10@gmail.com,6168088190,"237, Main Bazaar",Gurugram,Haryana,122055,06VKARE2128B4Z4,2025-08-14
+C1097,Verma Enterprises,Kavita Verma,kavita.verma36@company.in,7467295037,"123, Market Road",Jaipur,Rajasthan,302062,08IOIHA5082Z8Z8,2025-06-25
+C1098,Mehta Enterprises,Anjali Mehta,anjali.mehta32@yahoo.com,8577795939,"217, Station Road",Lucknow,Uttar Pradesh,226022,09GITJP7351G8Z8,2025-05-06
+C1099,Gupta Traders,Vivaan Gupta,vivaan.gupta30@yahoo.com,6509217983,"6, Station Road",Kolkata,West Bengal,700075,19SDCNJ0765K5Z5,2025-03-06
+C1100,Reddy Industries,Kavita Reddy,kavita.reddy91@outlook.com,7683721075,"218, Main Bazaar",Chennai,Tamil Nadu,600004,33EIVPQ1430L6Z2,2025-11-03
+C1101,Sharma Pvt Ltd,Meera Sharma,meera.sharma27@yahoo.com,6377044148,"90, Market Road",Bengaluru,Karnataka,560048,29CMWQR1082K5Z1,2025-02-11
+C1102,Mehta Enterprises,Sanjay Mehta,sanjay.mehta71@gmail.com,8564091811,"53, Industrial Area Phase 2",New Delhi,Delhi,110052,07SSSGH2058E1Z5,2025-01-14
+C1103,Patel Foods,Pooja Patel,pooja.patel26@gmail.com,6269417482,"165, Market Road",Gurugram,Haryana,122049,06EXJLG4220Y2Z1,2025-11-12
+C1104,Joshi Solutions,Deepak Joshi,deepak.joshi71@gmail.com,9845848409,"183, MG Road",Jaipur,Rajasthan,302064,08ONOZD9491G4Z2,2025-01-14
+C1105,Jain Industries,Deepak Jain,deepak.jain77@outlook.com,8990333248,"202, Main Bazaar",Gurugram,Haryana,122075,06NKKDP7995D5Z8,2025-06-14
+C1106,Khan Foods,Sanjay Khan,sanjay.khan5@yahoo.com,8466438604,"69, Nehru Place",Pune,Maharashtra,411002,27IUIVW6923X8Z5,2025-05-24
+C1107,Gupta Solutions,Isha Gupta,isha.gupta57@yahoo.com,9778851351,"218, Market Road",Chennai,Tamil Nadu,600072,33AFVVG4972O9Z6,2025-11-04
+C1109,Sharma Solutions,Isha Sharma,isha.sharma33@outlook.com,8433246831,"131, Nehru Place",New Delhi,Delhi,110071,07QPHCB9682W5Z3,2025-03-17
+C1110,Patel Logistics,Vivaan Patel,vivaan.patel85@outlook.com,7769243075,"49, Nehru Place",Mumbai,Maharashtra,400092,27SRQMY3316R3Z4,2025-02-16
+C1112,Reddy Industries,Karan Reddy,karan.reddy11@company.in,8616027174,"196, Sector 18",Kolkata,West Bengal,700016,19PQKZJ0130K9Z3,2025-01-22
+C1113,Agarwal & Sons,Anjali Agarwal,anjali.agarwal40@yahoo.com,6351822753,"228, Station Road",Noida,Uttar Pradesh,201343,09ZMTEX8029G1Z9,2025-09-06
+C1114,Verma Logistics,Amit Verma,amit.verma82@outlook.com,6501801412,"180, Station Road",Gurugram,Haryana,122026,06SQHRR2618D9Z9,2025-02-10
+C1115,Khan Solutions,Rohan Khan,rohan.khan78@yahoo.com,8893415964,"61, MG Road",Gurugram,Haryana,122001,06RXVRD0571I4Z7,2025-05-09
+C1116,Singh Industries,Vivaan Singh,vivaan.singh6@outlook.com,8837070861,"92, Ring Road",Kolkata,West Bengal,700079,19GTJIC4486P7Z2,2025-02-05
+C1117,Singh Logistics,Neha Singh,neha.singh76@company.in,9133068919,"29, Civil Lines",Noida,Uttar Pradesh,201356,09BGISR7559V6Z8,2025-09-23
+C1118,Bose Solutions,Rohan Bose,rohan.bose62@outlook.com,9188609544,"43, Sector 18",Lucknow,Uttar Pradesh,226096,09MGZBF6424Z8Z1,2025-08-15
+C1119,Khan Traders,Rohan Khan,rohan.khan14@company.in,9058796856,"117, Nehru Place",Bengaluru,Karnataka,560046,29VVVIT5734D4Z0,2025-06-12
+C1120,Malhotra & Sons,Vikram Malhotra,vikram.malhotra90@gmail.com,6848742118,"56, Ring Road",Pune,Maharashtra,411024,27SCKYV5746Q3Z7,2025-01-17
+C1121,Bose Foods,Vikram Bose,vikram.bose66@yahoo.com,7713685399,"196, Industrial Area Phase 2",Noida,Uttar Pradesh,201335,09KIHUD6858R6Z8,2025-11-07
+C1122,Patel Pvt Ltd,Priya Patel,priya.patel88@outlook.com,7969563134,"147, Civil Lines",Mumbai,Maharashtra,400086,27TVHWV5016G5Z2,2025-05-22
+C1123,Verma Pvt Ltd,Karan Verma,karan.verma27@gmail.com,8818787527,"205, Park Street",Pune,Maharashtra,411088,27RYKYZ3502T8Z3,2025-11-23
+C1124,Kapoor Solutions,Manish Kapoor,manish.kapoor93@yahoo.com,8490971022,"42, Main Bazaar",Bengaluru,Karnataka,560032,29AMYBY5768J8Z9,2025-09-12
+C1125,Malhotra Solutions,Rahul Malhotra,rahul.malhotra24@gmail.com,7450223327,"136, Ring Road",Gurugram,Haryana,122071,06VZARL9669V6Z6,2025-02-13
+C1126,Chauhan Traders,Vikram Chauhan,vikram.chauhan67@outlook.com,9426300975,"161, Sector 18",Pune,Maharashtra,411026,27RUWLC5797U2Z2,2025-01-15
+C1127,Gupta Enterprises,Vivaan Gupta,vivaan.gupta7@yahoo.com,8552236406,"137, MG Road",Bengaluru,Karnataka,560082,29SBTBW3526T2Z4,2025-08-13
+C1128,Khan Industries,Aarav Khan,aarav.khan69@yahoo.com,7778262898,"166, Nehru Place",Chennai,Tamil Nadu,600001,33OODAP5937X6Z3,2025-07-21
+C1130,Kumar & Sons,Manish Kumar,manish.kumar41@company.in,7022748178,"119, Ring Road",Pune,Maharashtra,411045,27UMCQC2881X2Z1,2025-01-28
+C1131,Joshi Logistics,Aarav Joshi,aarav.joshi99@yahoo.com,6559473277,"75, Station Road",Jaipur,Rajasthan,302059,08NCJAG9967E8Z2,2025-03-19
+C1132,Khan & Sons,Karan Khan,karan.khan6@yahoo.com,9222657398,"11, Nehru Place",Lucknow,Uttar Pradesh,226013,09SNVVG5163U2Z8,2025-05-13
+C1133,Iyer & Sons,Ritu Iyer,ritu.iyer45@company.in,9808425211,"155, Sector 18",Mumbai,Maharashtra,400084,27FVSMM2180B3Z9,2025-10-06
+C1134,Verma Industries,Ritu Verma,ritu.verma8@yahoo.com,8954968789,"56, Ring Road",New Delhi,Delhi,110077,07ZWEVP7816I3Z5,2025-08-20
+C1135,Agarwal Logistics,Aditya Agarwal,aditya.agarwal50@yahoo.com,6059686195,"225, Market Road",Lucknow,Uttar Pradesh,226064,09TCRXO0964N6Z0,2025-12-17
+C1136,Khan Logistics,Anjali Khan,anjali.khan45@gmail.com,9142828417,"203, MG Road",Chennai,Tamil Nadu,600073,33NNJFU4145I9Z6,2025-10-12
+C1137,Iyer Solutions,Sneha Iyer,sneha.iyer53@company.in,7352337786,"192, Industrial Area Phase 2",Lucknow,Uttar Pradesh,226057,09UYCNU8660M1Z1,2025-03-16
+C1139,Gupta Pvt Ltd,Neha Gupta,neha.gupta52@outlook.com,9420795755,"89, Park Street",Noida,Uttar Pradesh,201328,09PFYOG4102D9Z4,2025-09-27
+C1140,Das Logistics,Sneha Das,sneha.das73@company.in,7794450106,"57, Industrial Area Phase 2",Lucknow,Uttar Pradesh,226040,09KJNSG2373R3Z7,2025-06-12
+C1141,Yadav Industries,Manish Yadav,manish.yadav96@yahoo.com,9722228837,"31, Sector 18",Mumbai,Maharashtra,400086,27YMAWY8338S5Z7,2025-03-25
+C1142,Iyer Solutions,Sneha Iyer,sneha.iyer97@yahoo.com,6549038741,"133, Ring Road",Jaipur,Rajasthan,302040,08RAFPI6252P6Z5,2025-03-16
+C1143,Bose & Sons,Priya Bose,priya.bose47@company.in,8459687858,"51, Station Road",Chennai,Tamil Nadu,600094,33DUEMZ8577J5Z8,2025-10-02
+C1144,Mehta Traders,Rohan Mehta,rohan.mehta28@outlook.com,9807235834,"90, Main Bazaar",Chennai,Tamil Nadu,600025,33OQNZH3574C7Z9,2025-05-15
+C1145,Reddy Logistics,Neha Reddy,neha.reddy81@company.in,6033676387,"241, Nehru Place",New Delhi,Delhi,110095,07PZKEA7697C4Z2,2025-07-04
+C1146,Khan Traders,Aditya Khan,aditya.khan4@company.in,6160932741,"135, Station Road",Gurugram,Haryana,122003,06AJXWM8951W9Z2,2025-10-20
+C1147,Bose Pvt Ltd,Manish Bose,manish.bose45@company.in,7843230883,"121, Market Road",Kolkata,West Bengal,700001,19RMTHT7575G7Z8,2025-07-13
+C1148,Iyer Logistics,Neha Iyer,neha.iyer29@outlook.com,6427986278,"106, Industrial Area Phase 2",Mumbai,Maharashtra,400008,27EHQQH6100R1Z2,2025-02-10
+C1151,Kumar & Sons,Isha Kumar,isha.kumar99@gmail.com,7106996067,"203, Sector 18",Kolkata,West Bengal,700016,19MIOQJ8703X3Z4,2025-01-16
+C1152,Chauhan Foods,Vikram Chauhan,vikram.chauhan25@yahoo.com,8348581548,"139, Nehru Place",Kolkata,West Bengal,700058,19AQJEA8727V9Z6,2025-04-17
+C1153,Kumar Pvt Ltd,Vikram Kumar,vikram.kumar42@company.in,8150818240,"147, Civil Lines",Kolkata,West Bengal,700084,19MQPBF7096C8Z0,2025-06-18
+C1155,Patel Foods,Vikram Patel,vikram.patel46@outlook.com,8846832535,"191, Park Street",New Delhi,Delhi,110046,07ZLKSZ5593J4Z3,2025-06-01
+C1156,Malhotra Industries,Vikram Malhotra,vikram.malhotra13@gmail.com,9313528039,"188, Sector 18",Pune,Maharashtra,411092,27IMMXS8060Z7Z1,2025-01-25
+C1157,Bose Logistics,Amit Bose,amit.bose16@yahoo.com,6660535361,"173, Civil Lines",Bengaluru,Karnataka,560057,29TOCLU1347R7Z4,2025-02-13
+C1158,Kumar Industries,Deepak Kumar,deepak.kumar62@yahoo.com,9355952246,"148, Sector 18",Jaipur,Rajasthan,302014,08RLJIP0396Z8Z9,2025-03-15
+C1159,Jain & Sons,Anjali Jain,anjali.jain20@gmail.com,6726182383,"121, MG Road",Noida,Uttar Pradesh,201342,09FNFNG4716A7Z9,2025-11-17
+C1160,Mehta Traders,Sneha Mehta,sneha.mehta37@yahoo.com,8060328680,"223, Civil Lines",Noida,Uttar Pradesh,201329,09ZNSXM5019R1Z0,2025-04-17
+C1161,Khan Logistics,Rahul Khan,rahul.khan96@yahoo.com,6336295868,"228, MG Road",Pune,Maharashtra,411071,27YFIKD7568V4Z6,2025-04-19
+C1162,Chauhan & Sons,Deepak Chauhan,deepak.chauhan58@yahoo.com,7656216894,"233, Station Road",New Delhi,Delhi,110083,07YXIOY1387Y6Z6,2025-07-10
+C1163,Kumar Solutions,Sneha Kumar,sneha.kumar14@yahoo.com,7096665200,"200, Ring Road",Kolkata,West Bengal,700017,19NPSJW4110Y1Z4,2025-07-08
+C1164,Gupta Industries,Priya Gupta,priya.gupta57@company.in,8884768739,"147, Main Bazaar",Mumbai,Maharashtra,400068,27NWUNL8095M1Z8,2025-07-17
+C1165,Chauhan Foods,Priya Chauhan,priya.chauhan51@outlook.com,8446051847,"29, Station Road",Noida,Uttar Pradesh,201399,09PXOKI0488O2Z4,2025-06-23
+C1167,Sharma Foods,Sneha Sharma,sneha.sharma64@company.in,6642644608,"72, Main Bazaar",Lucknow,Uttar Pradesh,226080,09OVBDQ0868J6Z1,2025-01-04
+C1169,Bose & Sons,Pooja Bose,pooja.bose34@outlook.com,7647488221,"31, MG Road",Lucknow,Uttar Pradesh,226059,09QDWUZ4356A4Z4,2025-05-26
+C1170,Chauhan & Sons,Pooja Chauhan,pooja.chauhan99@gmail.com,6637601336,"235, Ring Road",Gurugram,Haryana,122004,06QMQXN3747Q5Z9,2025-12-22
+C1171,Kapoor Traders,Vikram Kapoor,vikram.kapoor27@outlook.com,8018335161,"30, Park Street",Bengaluru,Karnataka,560090,29WSHCW3835F2Z5,2025-01-25
+C1172,Das Traders,Aditya Das,aditya.das62@yahoo.com,7348337095,"34, Industrial Area Phase 2",Mumbai,Maharashtra,400092,27AKWDI0883B2Z8,2025-11-24
+C1173,Joshi Pvt Ltd,Aarav Joshi,aarav.joshi82@yahoo.com,8225762119,"144, Market Road",Pune,Maharashtra,411013,27FJIDS2206K9Z7,2025-01-05
+C1174,Verma Enterprises,Kavita Verma,kavita.verma50@gmail.com,6415586638,"183, Market Road",Noida,Uttar Pradesh,201310,09ZTMDV9446W8Z7,2025-04-08
+C1175,Yadav & Sons,Isha Yadav,isha.yadav51@yahoo.com,8784043417,"155, Main Bazaar",New Delhi,Delhi,110016,07NKSCO0345H4Z8,2025-03-16
+C1176,Reddy Solutions,Aditya Reddy,aditya.reddy89@company.in,9536167781,"153, Ring Road",Chennai,Tamil Nadu,600041,33OVEYB1873P1Z1,2025-04-27
+C1177,Sharma Industries,Manish Sharma,manish.sharma85@yahoo.com,9535163593,"242, Civil Lines",New Delhi,Delhi,110091,07ZICAZ4123R1Z0,2025-12-18
+C1178,Chauhan Traders,Rohan Chauhan,rohan.chauhan31@company.in,9674421158,"93, Civil Lines",Bengaluru,Karnataka,560019,29HWDAQ1869E2Z2,2025-11-26
+C1179,Patel Logistics,Meera Patel,meera.patel80@yahoo.com,9554316582,"129, Park Street",Chennai,Tamil Nadu,600052,33YOAAM3590X9Z4,2025-08-17
+C1180,Patel Enterprises,Ritu Patel,ritu.patel32@company.in,6655695049,"147, Nehru Place",Gurugram,Haryana,122053,06JZHES5372U8Z9,2025-03-19
+C1181,Patel Traders,Pooja Patel,pooja.patel37@company.in,6107262276,"233, Main Bazaar",Noida,Uttar Pradesh,201394,09DLVGS4783C3Z9,2025-03-27
+C1182,Iyer Solutions,Deepak Iyer,deepak.iyer85@company.in,7273671133,"192, Market Road",Kolkata,West Bengal,700029,19JSMDW0946Q1Z1,2025-09-21
+C1183,Patel Pvt Ltd,Deepak Patel,deepak.patel43@outlook.com,8825462675,"174, Station Road",Bengaluru,Karnataka,560040,29ORVAC1422G1Z0,2025-10-03
+C1184,Jain Enterprises,Isha Jain,isha.jain91@gmail.com,6816859862,"120, Sector 18",Noida,Uttar Pradesh,201381,09LZURR7272B7Z6,2025-06-02
+C1185,Mehta Foods,Sneha Mehta,sneha.mehta9@company.in,7614172697,"27, MG Road",Pune,Maharashtra,411009,27BSUAM6003E6Z6,2025-10-01
+C1186,Khan Logistics,Kavita Khan,kavita.khan52@gmail.com,7098459364,"162, Sector 18",Jaipur,Rajasthan,302046,08NYCLT6103G5Z6,2025-02-21
+C1187,Gupta Foods,Kavita Gupta,kavita.gupta95@yahoo.com,7009237649,"208, Ring Road",Bengaluru,Karnataka,560002,29ABUBD8646R3Z9,2025-04-03
+C1188,Khan Traders,Karan Khan,karan.khan61@gmail.com,7711037415,"210, Sector 18",Noida,Uttar Pradesh,201314,09MUFUL8963V9Z2,2025-06-27
+C1189,Joshi Industries,Vivaan Joshi,vivaan.joshi43@gmail.com,6271312517,"162, Main Bazaar",Mumbai,Maharashtra,400048,27UAMAE0684Z8Z2,2025-04-05
+C1190,Das Logistics,Ritu Das,ritu.das31@yahoo.com,6576083451,"136, Sector 18",Pune,Maharashtra,411079,27JTOFU6217V8Z7,2025-03-06
+C1191,Nair Pvt Ltd,Vivaan Nair,vivaan.nair27@company.in,8387079174,"30, Sector 18",Noida,Uttar Pradesh,201330,09SPIFR3730X7Z3,2025-07-08
+C1192,Joshi Foods,Kavita Joshi,kavita.joshi7@company.in,7261341323,"9, Main Bazaar",Gurugram,Haryana,122007,06HCMKT2217T3Z9,2025-09-28
+C1193,Bose Foods,Aditya Bose,aditya.bose28@company.in,9277235851,"147, MG Road",Mumbai,Maharashtra,400053,27ZBMTA5478O8Z3,2025-02-18
+C1194,Jain Industries,Deepak Jain,deepak.jain46@outlook.com,7604378704,"198, Station Road",Noida,Uttar Pradesh,201390,09KUJMQ8083B5Z6,2025-05-23
+C1195,Joshi Solutions,Vikram Joshi,vikram.joshi88@gmail.com,8709681363,"45, Market Road",Lucknow,Uttar Pradesh,226090,09BSFZG1495W4Z3,2025-06-12
+C1196,Bose Pvt Ltd,Ritu Bose,ritu.bose7@gmail.com,8345176526,"205, Sector 18",Pune,Maharashtra,411024,27XLCXH9126P3Z3,2025-09-21
+C1197,Bose Industries,Pooja Bose,pooja.bose61@outlook.com,9462082964,"88, Nehru Place",Noida,Uttar Pradesh,201362,09PSVLH1712P6Z4,2025-01-05
+C1199,Sharma & Sons,Karan Sharma,karan.sharma83@outlook.com,9897967793,"29, Ring Road",Bengaluru,Karnataka,560005,29DOIKV4006S9Z3,2025-05-07
+C1200,Kapoor Foods,Aditya Kapoor,aditya.kapoor87@gmail.com,9136993183,"96, MG Road",Noida,Uttar Pradesh,201336,09IILOF8744F7Z6,2025-03-27
+C1201,Gupta Industries,Isha Gupta,isha.gupta27@outlook.com,9953953062,"45, Market Road",Lucknow,Uttar Pradesh,226059,09STDEJ5088J8Z8,2025-12-15
+C1202,Sharma Industries,Aarav Sharma,aarav.sharma34@outlook.com,9162196074,"249, Sector 18",Mumbai,Maharashtra,400076,27TPOWQ4615S1Z4,2025-03-19
+C1203,Reddy Foods,Karan Reddy,karan.reddy89@yahoo.com,8124932595,"197, Station Road",Noida,Uttar Pradesh,201397,09CTOWV6366D9Z9,2025-06-27
+C1204,Kumar Pvt Ltd,Aarav Kumar,aarav.kumar48@company.in,9391121868,"135, Market Road",New Delhi,Delhi,110091,07OTCLB8943L3Z7,2025-10-17
+C1205,Chauhan Traders,Neha Chauhan,neha.chauhan96@gmail.com,7166329471,"5, Ring Road",Bengaluru,Karnataka,560096,29LFARP4903A2Z1,2025-10-07
+C1206,Mehta & Sons,Priya Mehta,priya.mehta4@gmail.com,7899315725,"26, Main Bazaar",Lucknow,Uttar Pradesh,226097,09AFEHX5902Q8Z5,2025-12-19
+C1207,Singh Industries,Meera Singh,meera.singh46@company.in,9221911177,"143, MG Road",New Delhi,Delhi,110010,07IDHPI9452N4Z1,2025-08-22
+C1208,Sharma Foods,Neha Sharma,neha.sharma87@gmail.com,9460145199,"17, Nehru Place",Bengaluru,Karnataka,560025,29IPZDV7275I7Z5,2025-08-22
+C1210,Kapoor Traders,Rahul Kapoor,rahul.kapoor98@gmail.com,9814840167,"227, Station Road",Jaipur,Rajasthan,302062,08LIKTO4554R3Z8,2025-01-13
+C1211,Joshi Logistics,Kavita Joshi,kavita.joshi79@outlook.com,8300837083,"25, Civil Lines",Pune,Maharashtra,411044,27ZKBGG3068D6Z2,2025-01-18
+C1212,Das Logistics,Vivaan Das,vivaan.das73@company.in,8040353046,"53, Nehru Place",Bengaluru,Karnataka,560063,29NTIPJ4487R4Z4,2025-05-02
+C1214,Kapoor Logistics,Sneha Kapoor,sneha.kapoor73@gmail.com,7311634380,"53, Civil Lines",Kolkata,West Bengal,700034,19VQGPK1128O8Z8,2025-07-14
+C1215,Mehta Pvt Ltd,Priya Mehta,priya.mehta18@gmail.com,8725607708,"81, Main Bazaar",Noida,Uttar Pradesh,201338,09WXKJR0971D9Z1,2025-09-22
+C1216,Yadav Foods,Ritu Yadav,ritu.yadav12@yahoo.com,6738787921,"55, Park Street",Lucknow,Uttar Pradesh,226056,09KWBNS1542I3Z5,2025-08-23
+C1217,Sharma Traders,Pooja Sharma,pooja.sharma95@gmail.com,7236796524,"3, Civil Lines",Bengaluru,Karnataka,560032,29HYTHW1438U7Z0,2025-05-28
+C1218,Khan Logistics,Kavita Khan,kavita.khan43@company.in,6865368740,"14, Station Road",Gurugram,Haryana,122080,06LQAFH5127Y3Z9,2025-11-14
+C1220,Malhotra Logistics,Aarav Malhotra,aarav.malhotra99@company.in,9171872418,"154, Industrial Area Phase 2",Gurugram,Haryana,122036,06SEEUA9242S8Z1,2025-01-16
+C1221,Iyer Solutions,Rahul Iyer,rahul.iyer92@company.in,9720032999,"248, Main Bazaar",New Delhi,Delhi,110090,07TBGQH3395S3Z4,2025-03-17
+C1222,Das Industries,Rahul Das,rahul.das12@outlook.com,9110188792,"225, Park Street",Kolkata,West Bengal,700078,19VYNLE7495V8Z0,2025-04-05
+C1223,Mehta Traders,Anjali Mehta,anjali.mehta61@outlook.com,7749903744,"217, Station Road",Noida,Uttar Pradesh,201315,09JFHVT8562A9Z9,2025-03-14
+C1224,Khan Enterprises,Anjali Khan,anjali.khan43@gmail.com,8663598108,"169, Ring Road",Gurugram,Haryana,122058,06QHRIB6499Z3Z3,2025-01-26
+C1225,Verma Enterprises,Rahul Verma,rahul.verma71@company.in,6319808172,"193, Station Road",Pune,Maharashtra,411015,27HUTXX6303G8Z7,2025-07-16
+C1227,Gupta Traders,Vikram Gupta,vikram.gupta66@gmail.com,9447835707,"119, Station Road",Noida,Uttar Pradesh,201323,09VBKSI7748K3Z3,2025-03-03
+C1228,Singh Logistics,Sneha Singh,sneha.singh69@gmail.com,6306446773,"209, Main Bazaar",Lucknow,Uttar Pradesh,226046,09RZRUC1186G1Z3,2025-08-21
+C1229,Bose Solutions,Anjali Bose,anjali.bose12@outlook.com,9141974404,"63, Industrial Area Phase 2",New Delhi,Delhi,110037,07OVBAQ7987T9Z4,2025-01-16
+C1230,Malhotra Foods,Kavita Malhotra,kavita.malhotra30@gmail.com,6430844493,"179, Civil Lines",Chennai,Tamil Nadu,600002,33ESMLN5698W8Z2,2025-05-24
+C1231,Nair Foods,Deepak Nair,deepak.nair21@yahoo.com,8604114794,"61, Industrial Area Phase 2",Chennai,Tamil Nadu,600071,33BAWJE8800N2Z9,2025-04-04
+C1232,Khan Pvt Ltd,Anjali Khan,anjali.khan44@outlook.com,6758886109,"205, Ring Road",Jaipur,Rajasthan,302096,08CCPUY8016G6Z2,2025-12-10
+C1233,Khan Enterprises,Ritu Khan,ritu.khan20@outlook.com,8812970842,"44, Sector 18",Kolkata,West Bengal,700034,19JTJRD7428N7Z7,2025-09-26
+C1234,Das Industries,Aarav Das,aarav.das99@gmail.com,6039107669,"15, Market Road",Bengaluru,Karnataka,560037,29KXSWS3389T3Z6,2025-08-21
+C1235,Patel Foods,Vikram Patel,vikram.patel90@outlook.com,9780537855,"55, Sector 18",Mumbai,Maharashtra,400065,27ONTEA7527X7Z8,2025-02-24
+C1238,Verma Industries,Kavita Verma,kavita.verma72@outlook.com,6641501393,"125, MG Road",Kolkata,West Bengal,700018,19DPBXX2841L2Z0,2025-07-16
+C1239,Joshi Foods,Pooja Joshi,pooja.joshi44@company.in,9881167617,"23, Main Bazaar",Lucknow,Uttar Pradesh,226085,09QKXIB6420F1Z9,2025-11-26
+C1240,Singh Enterprises,Vikram Singh,vikram.singh25@gmail.com,7750659228,"215, Main Bazaar",Pune,Maharashtra,411056,27CNIPM9310Q6Z6,2025-05-03
+C1241,Kapoor Industries,Rohan Kapoor,rohan.kapoor37@yahoo.com,7203416300,"100, Sector 18",Gurugram,Haryana,122040,06DXGYX0252Q9Z6,2025-02-09
+C1243,Chauhan Industries,Isha Chauhan,isha.chauhan1@gmail.com,9226982821,"137, Main Bazaar",Kolkata,West Bengal,700008,19HKDDO2469K6Z4,2025-12-15
+C1244,Reddy & Sons,Anjali Reddy,anjali.reddy27@company.in,8066049648,"181, Ring Road",Pune,Maharashtra,411097,27KCWQO8841M6Z6,2025-03-27
+C1246,Joshi Industries,Isha Joshi,isha.joshi9@yahoo.com,6198872809,"174, Market Road",Lucknow,Uttar Pradesh,226078,09GOLYQ9094N5Z1,2025-11-17
+C1247,Nair Traders,Kavita Nair,kavita.nair93@yahoo.com,6244010507,"177, Civil Lines",Kolkata,West Bengal,700009,19XFIBQ0407K5Z3,2025-02-16
+C1248,Verma & Sons,Rahul Verma,rahul.verma67@yahoo.com,6767650003,"218, Sector 18",Mumbai,Maharashtra,400016,27BUBPL1008M2Z9,2025-07-08
+C1250,Das Traders,Karan Das,karan.das30@gmail.com,7024743600,"193, Station Road",Pune,Maharashtra,411007,27GKOEX2309W4Z6,2026-08-20
+C1251,Kaapoor Industries,Sneha Kapoor,sneha.kapoor88@outlook.com,6228483541,"14, Main Bazaar",New Delhi,Delhi,110074,07YBXNW3208E4Z5,2026-05-14
+C1253,Das & Sons,Rohan Das,rohan.das25@company.in,6202930637,"60, Ring Road",Noida,Uttar Pradesh,201346,09AMSPA9612Q8Z2,2026-08-24
+C1254,Guptaa Enterprises,Rohan Gupta,rohan.gupta91@company.in,8077961501,"86, Main Bazaar",New Delhi,Delhi,110084,07WEDTB3792F2Z2,2026-07-06
+C1256,Kumar Pvt Ltd,Amit Kumar,amit.kumar94@gmail.com,6345296450,"220, Main Bazaar",New Delhi,Delhi,110021,07JGCOS2508H1Z7,2026-06-02
+C1258,Shaarma Foods,Isha Sharma,isha.sharma50@company.in,9863974311,"153, Sector 18",Lucknow,Uttar Pradesh,226075,09UFOQG4742Z1Z0,2026-01-06
+C1259,Patel Logistics,Manish Patel,manish.patel12@company.in,8644034261,"127, Market Road",Pune,Maharashtra,411080,27QCMCU3963H9Z6,2026-02-11
+C1260,Gupta Enterprises,Deepak Gupta,deepak.gupta34@yahoo.com,8003965759,"210, Station Road",Lucknow,Uttar Pradesh,226081,09MAWYN1756T3Z0,2026-03-17
+C1261,Das Industries,Pooja Das,pooja.das80@yahoo.com,8117971195,"113, Park Street",Bengaluru,Karnataka,560047,29EOAII3513A7Z7,2026-03-05
+C1262,Kumar Foods,Amit Kumar,amit.kumar9@gmail.com,6007855531,"91, Civil Lines",Pune,Maharashtra,411092,27BHICN1483R6Z1,2026-06-20
+C1263,Bose Enterprise,Deepak Bose,deepak.bose12@gmail.com,9844355532,"128, Civil Lines",New Delhi,Delhi,110056,07RYTKE5449Q9Z1,2026-04-28
+C1265,Das Logistics,Rahul Das,rahul.das9@company.in,6428296257,"78, Main Bazaar",Noida,Uttar Pradesh,201352,09LWNUD5129R8Z0,2026-02-26
+C1266,Verma Pvt Ltd,Amit Verma,amit.verma68@gmail.com,6802512316,"146, Station Road",Chennai,Tamil Nadu,600071,33TKCQJ4681F9Z6,2026-07-25
+C1267,Maalhotra Foods,Anjali Malhotra,anjali.malhotra2@gmail.com,8894103713,"226, Park Street",Lucknow,Uttar Pradesh,226017,09JVWQR0561L4Z2,2026-08-06
+C1269,Singh Industries,Manish Singh,manish.singh82@company.in,6506128938,"84, Nehru Place",Gurugram,Haryana,122057,06HBFUP1144R6Z3,2026-04-07
+C1272,Das Enterprises,Priya Das,priya.das67@yahoo.com,9399177514,"77, Industrial Area Phase 2",Noida,Uttar Pradesh,201346,09XWFCQ3121Z4Z0,2026-01-15
+C1273,Mehta Pvt Ltd,Neha Mehta,neha.mehta79@yahoo.com,9730738878,"17, Park Street",Chennai,Tamil Nadu,600060,33DSHNN6617U9Z1,2026-07-12
+C1275,Yadav & Sons,Amit Yadav,amit.yadav16@gmail.com,6450327579,"171, Market Road",Noida,Uttar Pradesh,201376,09GHRVO1371Q4Z5,2026-09-18
+C1277,Kapoor Pvt Ltd,Sneha Kapoor,sneha.kapoor29@outlook.com,8764459725,"140, Civil Lines",Mumbai,Maharashtra,400050,27VYUHH7342P4Z3,2026-05-10
+C1278,Mehtaa Industries,Karan Mehta,karan.mehta29@outlook.com,7165079560,"172, Sector 18",Jaipur,Rajasthan,302032,08CSMID6169K8Z7,2026-03-28
+C1279,Khan Pvt Ltd,Sanjay Khan,sanjay.khan19@company.in,6142907840,"46, Civil Lines",Lucknow,Uttar Pradesh,226077,09RDQCB7772V8Z7,2026-05-27
+C1280,Iyer Solutions,Manish Iyer,manish.iyer80@gmail.com,6525543085,"77, Civil Lines",Pune,Maharashtra,411084,27OFKQL7107F8Z3,2026-08-21
+C1283,Naair Foods,Anjali Nair,anjali.nair77@company.in,7945382800,"13, Station Road",Noida,Uttar Pradesh,201373,09UFFFF6589V1Z7,2026-04-15
+C1284,Gupta Enterprises,Priya Gupta,priya.gupta18@gmail.com,9347262672,"241, MG Road",Kolkata,West Bengal,700084,19WFPEK6772M2Z3,2026-03-10
+C1285,Yadav Enterprises,Ritu Yadav,ritu.yadav94@company.in,6491213247,"43, Ring Road",Bengaluru,Karnataka,560044,29LSXPL6706M6Z8,2026-04-14
+C1288,Khan Industries,Meera Khan,meera.khan34@yahoo.com,8714189829,"237, Market Road",Bengaluru,Karnataka,560082,29PFCMG8066E2Z5,2026-08-04
